@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    background-image: url(config.jpg);
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+}
+
+h5{
+    font-size: 30px;
+    color: red;
+}
+
+p{
+    text-align: center;
+    font-size: 10px;
+}h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+}
+ul{
+    font-size: 20px;
+}
