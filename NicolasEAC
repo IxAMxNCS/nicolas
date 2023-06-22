@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Projet.css">
+    <title>Nicolas Eischen</title>
+</head>
+<body>
+    <header>
+        <h1>Projet IA 2023</h1>
+        <h5>Dans le site qui suite je vais vous présenter la configuration d'un PC pour Kevin, avec un budget de 1600 €. Il souhaite avoir : boitier avec composants,ecran, imprimante, clavier, souris.</h5>
+    </header>
+    <h2>Partie PC :</h2>
+        <h3>Carte mère :</h3>
+            <p>
+                <img src="Carte mere.jpg" alt="Carte mère">
+            </p>
+            <h4>Caractéristiques :</h4>
+            <ul>
+                <li>Asus Prime H510M-A</li>
+                <li>Socket : LGA 1200</li>
+                <li>Port arrière :
+                    <ul>
+                        <li>2 USB 3.2 Gen 1</li>
+                        <li>1 DP</li>
+                        <li>1 HDMI</li>
+                        <li>4 USB 2.0</li>
+                        <li>1 Ethernet</li>
+                        <li>3 ports pour l'audio</li>
+                    </ul>
+                </li>
+                <li>2 slot RAM DDR4</li>
+                <li>Prix : 86,96 €</li>
+            </ul>
+        <h3>Boitier :</h3>
+            <p>
+                <img src="boitier.png" alt="boitier">
+            </p>
+            <h4>Caractéristique :</h4>
+            <ul>
+                <li>Dimension : 308*185*360</li>
+                <li>Micro-ATX</li>
+                <li>Port boitier :
+                    <ul>
+                        <li>1 USB 3.0</li>
+                        <li>1 USB 2.0</li>
+                        <li>1 port audio</li>
+                        <li>1 port micro</li>
+                    </ul>
+                </li>
+            </ul>
+        <h3>Processeur</h3>
+            <p>
+                <img src="Processeur.jpg" alt="Processeur">
+            </p>
+            <ul>
+                <li>Intel Core I7 11700k</li>
+                <li>8 coeurs</li>
+                <li>Fréquence de base : 3.60 GHz</li>
+                <li>Fréquence max boost : 5.00 GHz</li>
+                <li>socket : LGA 1200</li>
+                <li>Prix : 307.25 €</li>
+            </ul>
+        <h3>Carte Graphique :</h3>
+            <p>
+                <img src="GPU.jpg" alt="Carte Graphique">
+            </p>
+            <ul>
+                <li>MSI GeForce RTX 3060 GAMING 12G</li>
+                <li>Bus : 192 bits</li>
+                <li>170 w</li>
+                <li>276 x 131 x 51 mm</li>
+                <li>Résolution max : 7680x4320</li>
+            </ul>
+        <h3>Mémoire RAM</h3>
+            <p>
+                <img src="RAM.jpg" alt="Barettes RAM">
+            </p>
+            <ul>
+                <li>VENGEANCE® LPX 32GB (2 x 16GB)</li>
+                <li>deux fois 16 Go</li>
+                <li>DDR4</li>
+                <li>c 16</li>
+                <li>2133 MHz</li>
+            </ul>
+        <h3>Alimentation :</h3>
+            <p>
+                <img src="alim.jpg" alt="Alimentation">
+            </p>
+            <ul>
+                <li>Corsair rm750 (2021)</li>
+                <li>ATX</li>
+                <li>150 x 86 x 160 mm</li>
+                <li>750 w</li>
+            </ul>
+        <h3>Ecran :</h3>
+            <p>
+                <img src="ecran.jpg" alt="Ecran">
+            </p>
+            <ul>
+                <li>Gaming Monitor Odyssey G32A</li>
+                <li>24 pouces</li>
+                <li>165 Hz</li>
+                <li>1 ms en temps de réponse</li>
+            </ul>
+        <h3>Clavier :</h3>
+        <p>
+            <img src="clavier.jpg" alt="Clavier">
+        </p>
+        <ul>
+            <li>452 x 218 x 33 mm</li>
+            <li>USB 2.0</li>
+        </ul>
+        <h3>Imprimante :</h3>
+        <p>
+            <img src="imprimante.jpg" alt="Imprimante">
+        </p>
+        <ul>
+            <li>Tête d'impression : Epson Micro Piezo</li>
+            <li>Noir et blanc : 10 pages/min</li>
+            <li>couleur : 5 pages/min</li>
+            <li>Format pris en charge : BMP, JPEG, PICT, TIFF, multi-TIFF, PDF, PNG</li>
+            <li>Capacité bac papier : 30 feuilles</li>
+            <li>375 x 347 x 179 mm</li>
+        </ul>
+        <h3>SSD :</h3>
+        <p>
+            <img src="ssd.jpg" alt="SSD">
+        </p>
+        <ul>
+            <li>Samsung 970 Evo Plus NVME</li>
+            <li>capacité : 2To</li>
+            <li>PCIe Gen 3.0 x4</li>
+            <li>Vitesse lecture : 3500 MB/s</li>
+            <li>Vitesse écriture : 3300 MB/s</li>
+        </ul>
+        <h3>Souris :</h3>
+        <p>
+            <img src="souris.jpg" alt="Souris">
+        </p>
+        <ul>
+            <li>62,15 x 38,2 x 116,6 mm</li>
+            <li>2.1 m de cable</li>
+        </ul>
+</body>
+</html>
